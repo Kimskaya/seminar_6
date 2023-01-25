@@ -3,12 +3,23 @@
 //0, 7, 8, -2, -2 -> 2
 
 // 1, -7, 567, 89, 223-> 3
+
+int GetQuantityOfNumbers(string message)
+{
+    Console.WriteLine(message);
+    int NumberM = int.Parse(Console.ReadLine()!); 
+    return NumberM;
+}
+int Length= GetQuantityOfNumbers("Input the quantity of numbers you want to enter");
+
+
 int [] GetUserArray (int Length)
 {
     int [] array = new int [Length];
     for (int i = 0;i < Length; i ++)
     {
-         array [i] = new Random().Next(99, 1000);
+         Console.WriteLine($"Input element with index {i}  ");
+         array [i] = int.Parse(Console.ReadLine()!);
     }
     return array;
 }
@@ -30,3 +41,4 @@ void ArrayOutput (int [] Array)
     }
 }
 ArrayOutput (Array);
+
