@@ -18,7 +18,7 @@ int [] GetUserArray (int Length)
     int [] array = new int [Length];
     for (int i = 0;i < Length; i ++)
     {
-         Console.WriteLine($"Input element with index {i}  ");
+         Console.WriteLine($"Input the element number {i+1}  ");
          array [i] = int.Parse(Console.ReadLine()!);
     }
     return array;
@@ -42,3 +42,18 @@ void ArrayOutput (int [] Array)
 }
 ArrayOutput (Array);
 
+int CountPositivNumbers(int[] Array)
+{
+    int count = 0;
+    for (int i = 0; i < Array.Length; i++)
+      {
+        if (Array[i] > 0)
+          {
+            count = count + 1;
+          }
+       }
+    return count;
+}
+int count = CountPositivNumbers(Array);
+Console.WriteLine();
+Console.WriteLine($"The quantity of positive numbers is {count}");
