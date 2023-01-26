@@ -1,4 +1,4 @@
-﻿//Задача 41: Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
+﻿//Задача 41: User inputs M numbers from the keyboard. Count how many numbers >0 he entered.
 
 //0, 7, 8, -2, -2 -> 2
 
