@@ -1,0 +1,15 @@
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\bin\Debug\net6.0\task_43_int.exe
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\bin\Debug\net6.0\task_43_int.deps.json
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\bin\Debug\net6.0\task_43_int.runtimeconfig.json
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\bin\Debug\net6.0\task_43_int.dll
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\bin\Debug\net6.0\task_43_int.pdb
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.csproj.AssemblyReference.cache
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.AssemblyInfoInputs.cache
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.AssemblyInfo.cs
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.csproj.CoreCompileInputs.cache
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.dll
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\refint\task_43_int.dll
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.pdb
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\task_43_int.genruntimeconfig.cache
+C:\Users\zhdanovы\Desktop\Seminar_6_var\task_43_int\obj\Debug\net6.0\ref\task_43_int.dll
